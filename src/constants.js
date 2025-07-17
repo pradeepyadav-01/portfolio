@@ -162,7 +162,7 @@ export const SkillsInfo = [
         "Developed an interactive web-based Tic Tac Toe game featuring a responsive UI and smooth user experience. Implemented game logic with JavaScript to handle player turns, detect winning conditions, and manage game resets. Designed a clean, intuitive layout using HTML and CSS, with attention to accessibility and mobile responsiveness",
       image: tictactoe,
       tags: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      github: "https://github.com/pradeepyadav-01/tictactoe/tree/main/tictactoe",
       webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
@@ -172,7 +172,7 @@ export const SkillsInfo = [
         "Created a responsive front-end clone of the Netflix landing page using HTML, CSS, and vanilla JavaScript. styling, and hover effects to closely match the original UI. Implemented interactive components such as navigation menus, media thumbnails, and scrolling carousels. Focused on pixel-perfect design and cross-device compatibility.",
       image: netflix,
       tags: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
+      github: "https://github.com/pradeepyadav-01/netflix/tree/main/netflix",
       webapp: "https://csprep.netlify.app/",
     },
     {
@@ -187,7 +187,7 @@ export const SkillsInfo = [
     },
      {
       id: 3,
-      title: "Currncy cunverter",
+      title: "Currency converter",
       description:
         "Developed a responsive and interactive web application that allows users to convert currencies in real-time using live exchange rates fetched from a third-party API.  using HTML and CSSJavaScript  and display conversion results based on user input and responsive front-end development",
       image: currency,
